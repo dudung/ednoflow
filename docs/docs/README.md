@@ -1,6 +1,12 @@
 # ednoflow/docs
 Documentation of ednoflow
 
+## install
+
+```
+pip install ednoflow
+```
+
 
 ## entities
 Current entities are
