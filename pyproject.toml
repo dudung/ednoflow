@@ -1,6 +1,6 @@
 [tool.poetry]  # This section is for Poetry (optional, if using Poetry)
 name = "ednoflow"
-version = "0.0.1"
+version = "0.0.2"
 description = "granular flow dynamics for edge-node networks"
 authors = ["Sparisoma Viridi <dudung@gmail.com>"]
 license = "MIT"
