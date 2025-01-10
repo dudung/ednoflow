@@ -1,8 +1,8 @@
 # ednoflow/docs
 Documentation of ednoflow
 
-## install
 
+## install
 ```
 pip install ednoflow
 ```
