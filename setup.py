@@ -19,7 +19,7 @@ setup(
             # If you have any console scripts, specify them here
         ],
     },
-    url='https://github.com/dudung/ednoflow',
+    url='https://dudung.github.io/ednoflow/',
     license='MIT',
     author='Sparisoma Viridi',
     author_email='dudung@gmail.com',
@@ -32,4 +32,8 @@ setup(
         'Operating System :: OS Independent',
     ],
     python_requires='>=3.12',
+    project_urls={
+        "Repository": "https://github.com/dudung/ednoflow",  # Repository URL
+        "Documentation": "https://dudung.github.io/ednoflow/docs/",    # Optional additional link
+    },
 )
