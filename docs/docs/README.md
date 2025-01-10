@@ -1,11 +1,5 @@
-# ednoflow/docs
+# docs
 Documentation of ednoflow
-
-
-## install
-```
-pip install ednoflow
-```
 
 
 ## entities
